@@ -5,5 +5,5 @@ XBira - ZSH theme based on 'bira'
 
 ### Features:
 * Directory write permission check: 2 styles
-* Prompt invocation time (buggy now)
+* Prompt invocation time: 2 styles (one buggy)
 * Painfully configurable :)
